@@ -1,5 +1,5 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
-<h3>ENTER YOUR NAM0: S.Sham Rathan </h3>
+<h3>ENTER YOUR NAME: S.Sham Rathan </h3>
 <h3>ENTER YOUR REGISTER NO: 212221230093</h3>
 <h3>EX. NO: 02</h3>
 <h3>DATE:</h3>
